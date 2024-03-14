@@ -11,3 +11,7 @@ Real-time calculation of typing speed and accuracy.
 User-friendly interface for an intuitive typing experience.
 Provides instant feedback to help users track their progress.
 This project serves as a practical tool for individuals looking to enhance their typing skills efficiently and conveniently.
+![An image of the software](typing5.jpg)
+![An image of the software](typing6.jpg)
+![An image of result](typing7.jpg)
+
